@@ -1,0 +1,137 @@
+-> Script Part | Cleared Previous Session Logs Successfully - Alert
+-> Script Part | Cleared Screen Successfully - Alert
+-> Script Part | Completed Unvarified No Load Banner Successfully - Alert
+-> Script Part | Checked Internet Connection Successfully - Alert
+-> Scritp Part | Logged Out Successfully - Alert
+-> Script Part | Writted file:(Connection.txt) Successfully - Alert
+-> Script Part | Got User iP Address Successfully - Pass
+-> Script Part | Got User Mac Address Successfully - Pass
+-> Script Part | Got User Operating System Successfully - Pass
+-> Script Part | Got Linux User Distribution Successfully - Pass
+-> Script Part | Opened And Read file:(LoggedIn.txt) Successfully - Alert
+-> Script Part | Writted file:(LoggedIn.txt) Successfully - Alert
+-> Script Part | Writted file:(LoggedIn.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Connection.txt) Successfully - Alert
+-> Script Part | Cleared Screen Successfully - Alert
+-> Script Part | Completed Unvarified No Load Banner Successfully - Alert
+-> Script Part | Writted file:(Localhost.txt) Successfully - Alert
+-> Script Part | You Running TechMystic Locally - Warning
+-> Script Part | Cleared Screen Successfully - Alert
+-> Script Part | Loaded LogIn Banner Successfully - Alert
+-> Script Part | Opened And Read file:(tncs_agreed.txt) Successfully - Alert
+-> Script Part | Auto Scanned T&Cs Agreed - Pass
+-> Script Part | Opened And Read file:(tncs_agreed.txt) Successfully - Alert
+-> Script Part | Checked file:(User_Registered_Student.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(User_Registered_Student.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Paying_Student.txt) Successfully - Alert
+-> Script Part | Checked file:(User_Nickname.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(User_Nickname.txt) Successfully - Alert
+-> Script Part | Student Nickname - Pass
+-> Script Part | Cleared Screen Successfully - Alert
+-> Script Part | Completed Firewall Banner Successfully - Alert
+-> Script Part | Checked file:(Firewall_Date.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Date.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Founder.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Founder.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Company.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Company.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Password.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Password.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Invitation.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Invitation.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Registered_Year.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Registered_Year.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Paying_Student.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Paying_Student.txt) Successfully - Alert
+-> Script Part | Cleared Screen Successfully - Alert
+-> Script Part | Checked file:(User_Location.txt) Successfully - Alert
+-> Script Part | Checked file:(User_iD.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(User_iD.txt) Successfully - Alert
+-> Script Part | Identity - Pass
+-> Script Part | Checked file:(User_Password.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(User_Password.txt) Successfully - Alert
+-> Script Part | Password - Pass
+-> Script Part | Checked file:(User_Cpassword.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(User_Cpassword.txt) Successfully - Alert
+-> Script Part | Confirm Password - Pass
+-> Script Part | Passwords Match - Pass
+-> Script Part | Checked file:(User_Location.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(User_Location.txt) Successfully - Alert
+-> Script Part | Location - Pass
+-> Script Part | Scanned For User Successfully - Alert
+-> Script Part | Cleared Screen Successfully - Alert
+-> Script Part | Loaded Index Banner Successfully - Alert
+-> Script Part | Loaded Index Welcome Message (1) Successfully - Alert
+-> Script Part | Viewed Learnership Details Successfully - Alert
+-> Script Part | LoggedIn Successfully - Pass
+-> Script Part | Loaded Main Menu Successfully - Alert
+-> Script Part | Got User iP Address Successfully - Pass
+-> Script Part | Got User Mac Address Successfully - Pass
+-> Script Part | Got User Operating System Successfully - Pass
+-> Script Part | Got Linux User Distribution Successfully - Pass
+-> Script Part | Opened And Read file:(LoggedIn.txt) Successfully - Alert
+-> Script Part | Writted file:(LoggedIn.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(LoggedIn.txt) Successfully - Alert
+-> Script Part | Writted file:(LoggedIn.txt) Successfully - Alert
+-> Script Part | Writted file:(Connection.txt) Successfully - Alert
+-> Script Part | Cleared Screen Successfully - Alert
+-> Script Part | Completed Unvarified No Load Banner Successfully - Alert
+-> Script Part | Opened And Read file:(Localhost.txt) Successfully - Alert
+-> Script Part | Writted file:(Localhost.txt) Successfully - Alert
+-> Script Part | Cleared Screen Successfully - Alert
+-> Script Part | Completed Unvarified No Load Banner Successfully - Alert
+-> Script Part | Opened And Read file:(tncs_agreed.txt) Successfully - Alert
+-> Script Part | Auto Scanned T&Cs Agreed - Pass
+-> Script Part | Opened And Read file:(tncs_agreed.txt) Successfully - Alert
+-> Script Part | Checked file:(User_Registered_Student.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(User_Registered_Student.txt) Successfully - Alert
+-> Script Part | Checked file:(User_Nickname.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(User_Nickname.txt) Successfully - Alert
+-> Script Part | Student Nickname - Pass
+-> Script Part | Cleared Screen Successfully - Alert
+-> Script Part | Completed Firewall Banner Successfully - Alert
+-> Script Part | Opened And Read file:(Connection.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Date.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Date.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Founder.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Founder.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Company.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Company.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Password.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Password.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Invitation.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Invitation.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Registered_Year.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Registered_Year.txt) Successfully - Alert
+-> Script Part | Checked file:(Firewall_Paying_Student.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(Firewall_Paying_Student.txt) Successfully - Alert
+-> Script Part | Cleared Screen Successfully - Alert
+-> Script Part | Checked file:(User_Location.txt) Successfully - Alert
+-> Script Part | Checked file:(User_iD.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(User_iD.txt) Successfully - Alert
+-> Script Part | Identity - Pass
+-> Script Part | Checked file:(User_Password.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(User_Password.txt) Successfully - Alert
+-> Script Part | Password - Pass
+-> Script Part | Checked file:(User_Cpassword.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(User_Cpassword.txt) Successfully - Alert
+-> Script Part | Confirm Password - Pass
+-> Script Part | Passwords Match - Pass
+-> Script Part | Checked file:(User_Location.txt) Successfully - Alert
+-> Script Part | Opened And Read file:(User_Location.txt) Successfully - Alert
+-> Script Part | Location - Pass
+-> Script Part | Scanned For User Successfully - Alert
+-> Script Part | Cleared Screen Successfully - Alert
+-> Script Part | Completed Varified No Load Banner Successfully - Alert
+-> Script Part | Viewed Learnership Details Successfully - Alert
+-> Script Part | LoggedIn Successfully - Pass
+-> Script Part | Loaded Main Menu Successfully - Alert
+-> Script Part | Couldnt Check Internet Connection Successfully - Alert
+-> Script Part | Got User iP Address Successfully - Pass
+-> Script Part | Got User Mac Address Successfully - Pass
+-> Script Part | Got User Operating System Successfully - Pass
+-> Script Part | Got Linux User Distribution Successfully - Pass
+-> Script Part | Cleared Screen Successfully - Alert
+-> Script Part | Completed Unvarified No Load Banner Successfully - Alert
+-> Script Part | Writted file:(Offline.txt) Successfully - Alert
+-> Script Part | Internet Connection Failed - Warning
